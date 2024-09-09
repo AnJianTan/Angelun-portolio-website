@@ -3,6 +3,7 @@ body,html {
     font: bold 14px/1.4 'Open Sans';
     background: #000;
   }
+  /* Navbar */
   ul { 
     margin: 25px auto 0; 
     padding: 0; 
@@ -47,4 +48,14 @@ body,html {
           margin-top: 40px;
       }
   }
-  
+    /* Navbar */
+
+    /* hackerman */
+    .hackerman {
+      width: 600px;
+      border-radius: 15px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    /* hackerman */
