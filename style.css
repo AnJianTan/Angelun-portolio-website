@@ -2,6 +2,7 @@ body,html {
     margin: 0;
     font: bold 14px/1.4 'Open Sans';
     background: #000;
+    height: 2000px;
   }
   /* Navbar */
   ul { 
@@ -59,3 +60,16 @@ body,html {
       margin-right: auto;
     }
     /* hackerman */
+
+    /* Divider */
+    .divider {
+      width: 25%;
+      border-radius: 5px;
+    }
+    /* Divider */
+
+    /* Footer */
+    footer {
+      position: sticky;
+    }
+    /* Footer */
